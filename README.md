@@ -18,4 +18,5 @@ On Windows, try `py simple_calculator.py` if needed.
 Try 10 and 5 with each operation. For division by zero, choose division and enter 0 as the second number. Also test letters instead of a number.
 
 ## Author
-Add your name before submitting.
+Sinchana Mahesha Hegde
+
